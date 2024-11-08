@@ -1,0 +1,18 @@
+body {
+    color: white;
+    background-color: aliceblue;
+    background-image: url("../kuvat/yle1.avif");
+    font-family: system-ui;
+    color: black;
+    background-color: grey
+}
+
+p {
+    font-size: 20px;
+}
+
+.btn { background-color: rgb(103, 86, 86); } 
+
+#nappi {
+    font-size: 48px;
+}
