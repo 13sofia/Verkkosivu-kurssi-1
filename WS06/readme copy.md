@@ -1,1 +1,0 @@
-Student learns to create web site structure, navigation (page links) and use of visual appearance to own web site.
